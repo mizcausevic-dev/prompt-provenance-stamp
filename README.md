@@ -53,7 +53,8 @@ const doc = stamp(promptText, {
 
 - [**`prompt-provenance-spec`**](https://github.com/mizcausevic-dev/prompt-provenance-spec) — the schema this writes.
 - [**`kg-validate-action`**](https://github.com/mizcausevic-dev/kg-validate-action) — validate the stamped doc in CI.
-- [**`mcp-tool-card-summary`**](https://github.com/mizcausevic-dev/mcp-tool-card-summary) — sibling tool: per-tool safety summary across an MCP server.
+
+Historical reference: [**`mcp-tool-card-summary`**](https://github.com/mizcausevic-dev/mcp-tool-card-summary) is archived and read-only on GitHub as checked on 2026-10-30; its source remains available.
 
 ## Develop
 
